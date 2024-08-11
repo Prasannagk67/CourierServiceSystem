@@ -1,0 +1,93 @@
+18-Oct-2022 10:33:32 INFO - User Added Successfull
+18-Oct-2022 10:54:35 INFO - User Added Successfull
+18-Oct-2022 10:54:50 INFO - Login Successfull Byvirat1323
+18-Oct-2022 10:55:46 INFO - Login Failed By :virat1323
+18-Oct-2022 15:38:33 INFO - User Added Successfull
+18-Oct-2022 15:41:45 INFO - User Details Fetched Successfull
+18-Oct-2022 15:42:09 INFO - UserId Not Found
+18-Oct-2022 15:42:30 INFO - User Details Fetched Successfull
+18-Oct-2022 15:42:56 INFO - User Update Successfull
+18-Oct-2022 15:43:05 INFO - User Update Successfull
+18-Oct-2022 15:49:10 INFO - User Added Successfull
+18-Oct-2022 15:49:28 INFO - User Details Fetched Successfull
+18-Oct-2022 15:49:31 INFO - UserId Not Found
+18-Oct-2022 15:49:35 INFO - User Details Fetched Successfull
+18-Oct-2022 15:49:57 INFO - User Update Successfull
+18-Oct-2022 15:50:04 INFO - User Details Fetched Successfull
+18-Oct-2022 15:51:14 INFO - Login Successfull By :virat123
+18-Oct-2022 15:51:17 INFO - Login Failed By :virat123
+18-Oct-2022 15:55:42 INFO - Admin Added Employee Successfull
+18-Oct-2022 15:57:14 INFO - Admin Added Employee Successfull
+18-Oct-2022 15:59:55 INFO - Admin Get Employee Details By Id
+18-Oct-2022 16:00:46 INFO - Admin Get Employee Details By Id
+18-Oct-2022 16:01:23 INFO - Admin Deleted Employee Successfull
+18-Oct-2022 16:02:42 INFO - Admin Get AllUSers Successfull
+18-Oct-2022 16:04:08 INFO - User Added Successfull
+18-Oct-2022 16:04:18 INFO - Admin Deleted User By id Successfull
+18-Oct-2022 16:05:33 INFO - Admin Get User Details BY Id Successfull
+18-Oct-2022 16:09:09 INFO - User Added Successfull
+18-Oct-2022 16:09:41 INFO - Login Successfull By :admin
+18-Oct-2022 16:11:03 INFO - Login Failed By :rohit123
+18-Oct-2022 16:11:12 INFO - Login Successfull By :rohit1234
+18-Oct-2022 16:12:21 INFO - Employee Fetched Details By Employeeid
+18-Oct-2022 16:12:24 INFO - Employee Fetched Details By Employeeid
+18-Oct-2022 16:13:43 INFO - Employee Fetched Details By Employeeid
+18-Oct-2022 16:14:06 INFO - Employee Updated Profile Successfull
+18-Oct-2022 16:14:14 INFO - Employee Updated Profile Successfull
+18-Oct-2022 16:17:29 INFO - User Details Fetched Successfull
+18-Oct-2022 16:17:58 INFO - Courier Added Successfull
+18-Oct-2022 16:19:25 INFO - Admin Fetched All Couriers Successfull
+18-Oct-2022 16:21:12 INFO - Admin Viewed Status of Employee
+18-Oct-2022 16:25:30 INFO - Admin Assign Courier To Employee
+18-Oct-2022 16:28:21 INFO - Employee Get Couriers By His Employeeid
+18-Oct-2022 16:30:43 INFO - Employee Updated Courie Details
+18-Oct-2022 16:31:56 INFO - Employee Fetched Details By Employeeid
+18-Oct-2022 16:32:23 INFO - Employee Updated Profile Successfull
+18-Oct-2022 16:34:12 INFO - User Get Courier Details By UserID Successfull
+18-Oct-2022 16:45:36 INFO - Courierid Not Found
+18-Oct-2022 16:45:53 INFO - Courierid Not Found
+18-Oct-2022 16:45:58 INFO - Courierid Not Found
+18-Oct-2022 16:48:19 INFO - Courierid Not Found
+18-Oct-2022 16:48:42 INFO - Unknown person Fetched courier Successfull
+18-Oct-2022 16:49:40 INFO - User Delete Successfull
+18-Oct-2022 16:50:57 INFO - User Delete Successfull
+18-Oct-2022 16:52:50 INFO - Admin Deleted Employee Successfull
+18-Oct-2022 16:58:49 INFO - Courier Delete Successfull
+18-Oct-2022 17:00:20 INFO - User Delete Successfull
+19-Oct-2022 08:56:05 INFO - User Added Successfull
+19-Oct-2022 08:56:34 INFO - User Added Successfull
+19-Oct-2022 08:57:13 INFO - Admin Added Employee Successfull
+19-Oct-2022 08:57:43 INFO - Admin Added Employee Successfull
+19-Oct-2022 08:58:53 INFO - Admin Viewed Status of Employee
+19-Oct-2022 08:59:00 INFO - Admin Viewed Status of Employee
+19-Oct-2022 09:03:57 INFO - User Added Successfull
+19-Oct-2022 09:04:32 INFO - Login Successfull By :admin
+19-Oct-2022 09:34:33 INFO - Courier Added Successfull
+19-Oct-2022 09:34:43 INFO - Admin Fetched All Couriers Successfull
+19-Oct-2022 09:34:57 INFO - Admin Viewed Status of Employee
+19-Oct-2022 09:35:22 INFO - Admin Assign Courier To Employee
+19-Oct-2022 09:35:49 INFO - Employee Get Couriers By His Employeeid
+19-Oct-2022 09:35:59 INFO - Employee Get Couriers By His Employeeid
+19-Oct-2022 09:36:55 INFO - Employee Updated Courie Details
+19-Oct-2022 09:38:21 INFO - Employee Fetched Details By Employeeid
+19-Oct-2022 09:38:37 INFO - Employee Updated Profile Successfull
+19-Oct-2022 12:59:21 INFO - UserId Not Found
+19-Oct-2022 12:59:38 INFO - User Details Fetched Successfull
+19-Oct-2022 13:00:04 INFO - User Update Successfull
+19-Oct-2022 13:00:11 INFO - User Details Fetched Successfull
+19-Oct-2022 14:10:13 INFO - User Added Successfull
+19-Oct-2022 14:11:33 INFO - Admin Added Employee Successfull
+19-Oct-2022 14:11:52 INFO - Courier Added Successfull
+19-Oct-2022 14:12:01 INFO - Admin Fetched All Couriers Successfull
+19-Oct-2022 14:12:21 INFO - Admin Viewed Status of Employee
+19-Oct-2022 14:12:42 INFO - Admin Assign Courier To Employee
+19-Oct-2022 14:12:54 INFO - Employee Get Couriers By His Employeeid
+19-Oct-2022 14:13:39 INFO - Employee Updated Courie Details
+19-Oct-2022 14:14:01 INFO - Employee Fetched Details By Employeeid
+19-Oct-2022 14:14:07 INFO - Employee Fetched Details By Employeeid
+19-Oct-2022 14:14:20 INFO - Employee Updated Profile Successfull
+19-Oct-2022 14:14:31 INFO - User Get Courier Details By UserID Successfull
+19-Oct-2022 14:14:54 INFO - Unknown person Fetched courier Successfull
+28-Oct-2022 09:16:55 INFO - Admin Viewed Status of Employee
+28-Oct-2022 09:17:05 INFO - Admin Viewed Status of Employee
+28-Oct-2022 09:17:16 INFO - Admin Viewed Status of Employee

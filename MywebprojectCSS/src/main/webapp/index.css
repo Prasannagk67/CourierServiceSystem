@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+body  {
+  background-image: url("courier.PNG");
+  background-size: cover;
+  background-color:black;
+  opacity: 0.5;
+}
+* {box-sizing: border-box;}
+
+body { 
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  overflow: hidden;
+  padding: 30px 10px;
+}
+
+.header a {
+  float: left;
+  color: blue;
+  text-align: center;
+  padding: 20px;
+  text-decoration: blink;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+.header a.logo {
+	
+  font-size: 55px;
+  font-weight: bold;
+}
+
+
+
+
+.header-right {
+	background-color: white;
+  float: right;
+}
+
+@media screen and (max-width: 100px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .header-right {
+    float: none;
+  }
+}
+h1 {text-align: center;}
